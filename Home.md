@@ -2,4 +2,5 @@
 |Sl.No.|Idea|Working|Components|Mechanism/Principle|Link|Team member with Roll.No.|
 |------|------------|-------------------|----------|-------------------|----|-------------------------|
 |1.|Home Automation using Gesture control|Switching off/on of electric appliances are controlled through gestures|1. Arduino UNO 2. 5 mm LED 3. 10K ohm PRESET 4. 7805 and 7812 voltage regulators. 5. 12 V Relay. 6. 10K ohm PRESET 7. Transistor (BC547) 8. Bulb holder 9. TWO pin plug 10.APDS-9960 gesture sensor|Through ADPS 9960 Gesture sensor the gestures are given as input instead of switches in home|https://www.engineersgarage.com/gesture-based-home-automation-system/|Gangadharayya Korimath 1046|
-|2.|Gesture Controlled Robot|Movement of an robot is controlled using gestures| 1. Arduino Lilypad 2. Accelerometer 3. RF 433 Module  4. HT12E and HT12D  5. Motor driver L293DNE  6. BO Motor and Wheels  7. Prototyping Board 8. Battery etc.|
+|2.|Gesture Controlled Robot|Movement of a robot is controlled using gestures| 1. Arduino Lilypad 2. Accelerometer 3. RF 433 Module  4. HT12E and HT12D  5. Motor driver L293DNE  6. BO Motor and Wheels  7. Prototyping Board 8. Battery etc.|Movement of robot is controlled using hand gestures|https://www.youtube.com/watch?v=rejZmqRrKMc|Akshay D 1041|
+|3.|
