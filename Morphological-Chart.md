@@ -1,8 +1,8 @@
 ## Material Handling System which is operated through Gestures ##
 |Func./Sub Func.|M1|M2|M3|M4|
 |---------------|---|---|---|---|
-|Sensing the material(F1)|![proximity](https://user-images.githubusercontent.com/105170460/169702486-2bb5d5a3-1485-41e2-8329-c9845425df32.jpg)Proximity Sensor|Camera|Ultra Sonic Sensor|Laser| 
-|Gripping and Degripping the Material(F2)|Claw System|RG 2 Gripper|Vaccum Grippers|Electromagnet Grippers|
+|Sensing the material(F1)|![proximity](https://user-images.githubusercontent.com/105170460/169702486-2bb5d5a3-1485-41e2-8329-c9845425df32.jpg)Proximity Sensor|![cam](https://user-images.githubusercontent.com/105170460/169702578-b1769c16-a850-47c2-966e-ac3d5d5e8f70.jpg)Camera|![ultr](https://user-images.githubusercontent.com/105170460/169702640-4a149cc0-efb7-49f0-9848-092630bd010e.jpg)Ultra Sonic Sensor|![lsre](https://user-images.githubusercontent.com/105170460/169703087-9ad5a0e3-cf77-424c-bd94-412ca9b100ff.jpg)Laser| 
+|Gripping and Degripping the Material(F2)|![clw](https://user-images.githubusercontent.com/105170460/169703156-57ad9aa0-989a-446e-88da-608c930eeaff.jpg)Claw System|RG 2 Gripper|Vaccum Grippers|Electromagnet Grippers|
 |Movement of Stucture(F3)|Wheels|Gear system|Belt System|Maglev train mechanism| |
 |Notifying the actions(F4)|Buzzer|LED Blinking System|Voice Message|Display Message| |
 |Lifting and Droping(F5) |Gear Motor and Thread System(without pulley)|Gear Motor and thread system (with pulley)|Gear and Rail system | |  
