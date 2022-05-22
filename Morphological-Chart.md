@@ -1,7 +1,7 @@
 ## Material Handling System which is operated through Gestures ##
 |Func./Sub Func.|M1|M2|M3|M4|
 |---------------|---|---|---|---|
-|Sensing the material(F1)|Proximity Sensor|Camera|Ultra Sonic Sensor|Laser| 
+|Sensing the material(F1)|![proximity](https://user-images.githubusercontent.com/105170460/169702486-2bb5d5a3-1485-41e2-8329-c9845425df32.jpg)Proximity Sensor|Camera|Ultra Sonic Sensor|Laser| 
 |Gripping and Degripping the Material(F2)|Claw System|RG 2 Gripper|Vaccum Grippers|Electromagnet Grippers|
 |Movement of Stucture(F3)|Wheels|Gear system|Belt System|Maglev train mechanism| |
 |Notifying the actions(F4)|Buzzer|LED Blinking System|Voice Message|Display Message| |
